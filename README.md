@@ -9,7 +9,7 @@ Aplikasi manajemen perpustakaan berbasis Laravel untuk mengelola buku, kategori,
 ## Teknologi yang Digunakan
 - Laravel
 - CSS3
-- JavaScript
+- html
 - Laravel
 
 ## Cara Menjalankan
