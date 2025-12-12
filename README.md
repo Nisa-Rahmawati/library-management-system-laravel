@@ -1,7 +1,6 @@
 # Nama Proyek
 📚 Library Management System (Laravel)
-Aplikasi manajemen perpustakaan berbasis Laravel untuk mengelola buku, kategori, serta proses peminjaman dan pengembalian.
-
+Aplikasi manajemen perpustakaan berbasis Laravel untuk mengelola buku, serta kategori buku.
 ## Fitur
 - CRUD Buku (tambah, lihat, edit, hapus)
 - CRUD Kategori Buku
